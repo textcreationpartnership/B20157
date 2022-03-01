@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Prince Paltsgrave to the high court of Parliament concerning the cause of his departure out of England in these times of distractions and the manner of his cariage and behaviour during the time of his continuance with His Majesty in the north : likewise his earnest request to the Parliament and the Parliaments answer thereunto : declared in his letter to the House of Peeres on Tuesday last : also the Queen of Bohemia her resolution concerning Prince Roberts coming into England against the Parliament : likewise a true relation shewing how the Marquesse of Hartford and his company are beset by the Earle of Bedford and his forces.</title>
+            <author>Maurice, Prince, 1620-1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20157</idno>
+            <idno type="STC">Wing C3658</idno>
+            <idno type="EEBO-CITATION">12268139</idno>
+            <idno type="OCLC">ocm 12268139</idno>
+            <idno type="VID">200079</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B20157)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 200079)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 247:E119, no 18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Prince Paltsgrave to the high court of Parliament concerning the cause of his departure out of England in these times of distractions and the manner of his cariage and behaviour during the time of his continuance with His Majesty in the north : likewise his earnest request to the Parliament and the Parliaments answer thereunto : declared in his letter to the House of Peeres on Tuesday last : also the Queen of Bohemia her resolution concerning Prince Roberts coming into England against the Parliament : likewise a true relation shewing how the Marquesse of Hartford and his company are beset by the Earle of Bedford and his forces.</title>
+                  <author>Maurice, Prince, 1620-1652.</author>
+                  <author>Elizabeth, Queen, consort of Frederick I, King of Bohemia, 1596-1662.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Greene,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>October 1, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A news report.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rupert, --  Prince, Count Palatine, 1619-1682.</term>
+               <term>Bedford, William Russell, --  Duke of, 1613-1700.</term>
+               <term>Somerset, William Seymour, --  Duke of, 1588-1660.</term>
+               <term>England and Wales. --  Parliament.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:200079:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF THE Prince Paltſgrave, <hi>TO THE</hi> High Court of PARLIAMENT, concerning the Cauſe of his departure out of <hi>England</hi> in theſe times of diſtractions, and the manner of his cariage and behaviour during the time of his continuance with His Majeſty in the North.</p>
+            <p>Likewiſe his earneſt requeſt to the Parliament, and the Parliaments anſwer thereunto: Declared in his Letter to the Houſe of Peeres on Tueſday laſt.</p>
+            <p>ALSO THE QUEEN OF BOHEMIA her Reſolution concerning Prince ROBERTS coming into <hi>England</hi> againſt the Parliament.</p>
+            <p>Likewiſe a true Relation, ſhewing how the Marqueſſe of <hi>Hartford</hi> and his Company are beſet by the Earle of <hi>Bedford</hi> and his Forces.</p>
+            <p>Printed for <hi>J. Greene.</hi> October 1. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:200079:2"/>
+            <pb n="1" facs="tcp:200079:2"/>
+            <head>THE QUEEN OF BOHEMIA Her Reſolution concerning Prince <hi>Roberts</hi> coming into <hi>England</hi> againſt the Parliament.</head>
+            <head type="sub">ALSO THE <hi>PRINCE PALTSGRAVES</hi> Declaration to the Parliament of his departure out of <hi>England</hi> in theſe times of diſtraction: with his earneſt requeſt to the Parliament, and the Parliaments anſwer thereunto.</head>
+            <p>THe Prince Paltſgrave hearing of the jealouſies and differences that began to ariſe betweene the King and Parliament, came into England, no doubt with an intent to uſe his beſt skill to ſettle thoſe diſtractions: but it ſeemed his coming was not very well pleaſing to his Majeſtie; for after his coming to London, for ſome ſpace of time, he was not admitted into his Majeſties pre<g ref="char:EOLhyphen"/>ſence,
+<pb n="2" facs="tcp:200079:3"/>but lay privately at Eſſex houſe, and therefore was there the leſſe hopes that his coming ſhould doe any good: which when he perceived, he tooke his leave of his Majeſty, and went again o<g ref="char:EOLhyphen"/>ver into Holland, his ſecond brother Prince Robert going away alſo with him. But it ſeems thoſe two brothers had contrary affections and intents to<g ref="char:EOLhyphen"/>wards England: for the one went with an intent and purpoſe to ſtay in Holland and not to meddle further with the di<g ref="char:EOLhyphen"/>ſtractions that were in England, and the other (as it appeares by the event) with a reſolution to bring in what Forces he could to aſsiſt the King in a war againſt the Parliament. But ſome are of <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pi<g ref="char:EOLhyphen"/>nion, that it was infuſed into his braine by the Queene after he went over from hence, which was much againſt his Mo<g ref="char:EOLhyphen"/>thers (the good Lady ELIZABETH) mind. And although ſhe could not per<g ref="char:EOLhyphen"/>ſwade him from coming againe into England, with a purpoſe to increaſe the diviſion between the King and Parlia<g ref="char:EOLhyphen"/>ment,
+<pb n="3" facs="tcp:200079:3"/>yet ſhe did refuſe to give him her bleſsing, who went about ſo wicked a deſigne.</p>
+            <p>Not long ſince the Queene of Bohe<g ref="char:EOLhyphen"/>mia ſent to the Parliament, to acquaint them that the twelve rhouſand pounds a yeere which ſhe had wont to receive as a ſtipend from England, ſince theſe diſtractions betweene his Majeſty and the Parliament have happened, hath not been paid; which the Parliament have taken into conſideration, and notwith<g ref="char:EOLhyphen"/>ſtanding all thoſe ill offices which are done here by her ſonne Prince Robert, yet ſo ſoone as his Majeſty wilbe pleaſed to paſſe the, Bill for Tonnage and Poun<g ref="char:EOLhyphen"/>dage, which hath been a long time with his Majeſty, out of which it is to bee paid, or the preſent diſtempers a little o<g ref="char:EOLhyphen"/>ver, ſhe ſhould have the ſame.</p>
+            <p>On Tueſday the 27. of September, a letter was read in the Parliament Houſe which came from the Prince Paltſgrave, ſent to the Houſe of Peeres, wherein he makes a Declaration of his carriage
+<pb n="4" facs="tcp:200079:4"/>in England while he was with his Ma<g ref="char:EOLhyphen"/>jeſtie, ſhewing to their Lordſhips, that he had oftentimes perſwaded and coun<g ref="char:EOLhyphen"/>ſelled his Majeſtie to hearken to the ad<g ref="char:EOLhyphen"/>vice of his great Counſell, the high and honourable Court of Parliament, and to return unto them, and that during all the time that he continued in England, hee did never uſe any meanes either by words or actions to increaſe the diffe<g ref="char:EOLhyphen"/>rence betweene his Majeſtie and the Parliament, but as much as in him lay, had uſed all poſsible endeavours to the contrary: neither ſince his going into Holland had hee beene an occaſion of ſending over any ammunition, or other proviſion for warre, to bee imployed againſt the Parliament. Hee further declared unto their Lordſhips, that he was in great want of moneyes, deſiring their Lordſhips to conſider, that there hath beene but little ſupply had out of England lately, and therefore intreated their Lordſhips to let him have a thou<g ref="char:EOLhyphen"/>ſand pound for the ſupply of his preſent
+<pb n="5" facs="tcp:200079:4"/>neceſsities. Which Letter the Lords communicated to the Houſe of Com<g ref="char:EOLhyphen"/>mons, deſiring that they would joyne with them in an Order, that the foreſaid Prince Paltſgrave might have a thouſand pound, in regard the ſum he deſired was not great, but only to furniſh his preſent occaſions: which after ſome debate in the Houſe of Commons, they joyned with the Lords in the ſaid Order, and it was done accordingly.</p>
+            <p>The Marqueſſe of Hartford when he fled from Sherburne, marched toward Bruton in Somerſetſhire, but the next day turned his courſe toward Minyard, and the Earle of Bedford purſued after him with his thoupes, following after him with a continuall alarum, with the aſsiſtance of the countrey, and ſent a poſt before to Minyard to ſtop his paſſage into Wales by ſea, and ſo purſued him to the town: but finding no paſſage to get over into Wales, as he intended, he poſ<g ref="char:EOLhyphen"/>ſeſſed himſelfe of a ſtrong Inne in the ſaid town, &amp; there for the preſent ſtands
+<pb n="6" facs="tcp:200079:5"/>upon his guard: the Earle of Bedford with his Forces came to the ſaid towne, and continues there: and a great num<g ref="char:EOLhyphen"/>ber alſo of the Trained Bands of ſeverall countreyes heere adjacent are come thi<g ref="char:EOLhyphen"/>ther, ſo that the Marqueſſe will finde it very hard to give them the ſlip the third time; for he dares not look out of the doores, he is ſo cloſely beſet: and were it not for feare of burning downe the towne, they would quickly force him and his company out of the houſe: but within two or three dayes it is ſuppoſed that hunger will bring them forth to fight, rather then they will ſtarve: and therefore we may aſſure our ſelves, that by the next Poſt we ſhall heare that the Earle of Bedford hath taken them.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
